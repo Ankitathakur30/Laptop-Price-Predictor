@@ -5,3 +5,4 @@
  matplotlib
  seaborn
  pickle-mixin
+ xgboost==3.3.0
